@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}引言}{3}{section.1}%
+\contentsline {section}{\numberline {2}Hausdorff外测度}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Hausdorff外测度的定义}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}性质}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Hausdorff可测集}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}定义}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}性质}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}定理}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Hausdorff 维数}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}定义}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}性质}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Minkowski维数与Hausdorff维数的关系}{9}{subsection.4.3}%
